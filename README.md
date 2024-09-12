@@ -6,6 +6,8 @@ DOMAIN : UI/UX DESIGN
 # PROJECT OVERVIEW
 NAME OF TASK:E COMMERCE WEBSITE REDESIGN
 OBJ: I redesign an existing e-coomerce website filpcart .I had done the project by using the figma tool and i had focued on optimizing project delivery,checkout proceess.
+
+https://github.com/user-attachments/assets/88a45669-0ec8-422a-a11e-38a1a1ed1011
 https://github.com/user-attachments/assets/be667bd3-ab35-4113-8501-c125eabbc60c
 https://github.com/user-attachments/assets/cea222a7-089c-44c7-8f45-6bfd05a2f686
 https://github.com/user-attachments/assets/a386328c-f9aa-4090-8c74-68599edeca36
